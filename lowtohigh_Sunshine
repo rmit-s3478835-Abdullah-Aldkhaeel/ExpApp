@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html> 
 <head> 
-	<title>All Items</title> 
+	<title>Sunshine - Low to High</title> 
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
 	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
@@ -19,7 +19,7 @@
 <div data-role="page">
 
 	<div data-role="header">
-		<h1>All Items</h1>
+		<h1>Sunshine - Low to High</h1>
 	</div><!-- /header -->
 	
 	<div data-role="content">
@@ -64,13 +64,12 @@
     			</li>
 
 			<li><a href="#">
-        			<img src="http://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/68321.jpg">
-    			<font size="2">Smooth Ricotta</font><br>
-    			<font size="2">Cheese Tub</font><br><br>
-    			<font color="red" size="2">Original Price: <strike>$6.88</strike></font><br>
+        			<img src="http://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8850053.jpg">
+    			<font size="2">Lamb Mince</font><br><br>
+    			<font color="red" size="2">Original Price: <strike>$6.00</strike></font><br>
     			<font color="green" size="2">Current Price: $4.50</font><br>
-    			<font size="2">Expiry Date: 27/11/2016</font>
-    			<a href="http://shop.coles.com.au/online/national/lilydale-free-range-whole-chicken">Buy Online</a></a>
+    			<font size="2">Expiry Date: 28/11/2016</font>
+    			<a href="http://shop.coles.com.au/online/national/coles-lamb-mince-8850053p">Buy Online</a></a>
     			</li>
 
 			<li><a href="#">
