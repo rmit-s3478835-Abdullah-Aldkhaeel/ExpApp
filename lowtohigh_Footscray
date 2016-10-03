@@ -19,7 +19,8 @@
 <div data-role="page">
 
 	<div data-role="header">
-		<h1>Footscray - Low to High</h1>
+		<p size="2" align="center">Footscray - Low to High</p>
+
 	</div><!-- /header -->
 	
 	<div data-role="content">
