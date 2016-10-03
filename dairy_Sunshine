@@ -30,7 +30,7 @@
     			<font size="2">Cheese Block</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$8.31</strike></font><br>
     			<font color="green" size="2">Current Price: $5.00</font><br>
-    			<font size="2">Expiry Date: 28/11/2016</font>
+    			<font size="1">Expiry Date: 28/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/jarlsberg-cheese-block">Buy Online</a></a>
     			</li>
 
@@ -39,7 +39,7 @@
     			<font size="2">Blueberry Yoghurt</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$3.14</strike></font><br>
     			<font color="green" size="2">Current Price: $2.00</font><br>
-    			<font size="2">Expiry Date: 26/11/2016</font>
+    			<font size="1">Expiry Date: 26/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/allure-by-tempo-yoghurt-blueberry">Buy Online</a></a>
     			</li>
 
@@ -49,7 +49,7 @@
     			<font size="2">Original</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$3.63</strike></font><br>
     			<font color="green" size="2">Current Price: $2.50</font><br>
-    			<font size="2">Expiry Date: 30/11/2016</font>
+    			<font size="1">Expiry Date: 30/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/bulla-real-dairy-spreadable-cheese-original">Buy Online</a></a>
     			</li>
     			
@@ -59,7 +59,7 @@
     			<font size="2">Mozzarella</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$7.25</strike></font><br>
     			<font color="green" size="2">Current Price: $5.50</font><br>
-    			<font size="2">Expiry Date: 25/11/2016</font>
+    			<font size="1">Expiry Date: 25/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/tempo-cheese-shredded-mozzarella">Buy Online</a></a>
     			</li>
 
@@ -69,7 +69,7 @@
     			<font size="2">Cheese Tub</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$6.88</strike></font><br>
     			<font color="green" size="2">Current Price: $4.50</font><br>
-    			<font size="2">Expiry Date: 27/11/2016</font>
+    			<font size="1">Expiry Date: 27/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/lilydale-free-range-whole-chicken">Buy Online</a></a>
     			</li>
 
