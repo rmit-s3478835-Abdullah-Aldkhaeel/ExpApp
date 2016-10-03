@@ -30,7 +30,7 @@
     			<font size="2">Blueberry Yoghurt</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$3.14</strike></font><br>
     			<font color="green" size="2">Current Price: $2.00</font><br>
-    			<font size="2">Expiry Date: 26/11/2016</font>
+    			<font size="1">Expiry Date: 26/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/allure-by-tempo-yoghurt-blueberry">Buy Online</a></a>
     			</li>
 
@@ -40,7 +40,7 @@
     			<font size="2">Original</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$3.63</strike></font><br>
     			<font color="green" size="2">Current Price: $2.50</font><br>
-    			<font size="2">Expiry Date: 30/11/2016</font>
+    			<font size="1">Expiry Date: 30/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/bulla-real-dairy-spreadable-cheese-original">Buy Online</a></a>
     			</li>
     			
@@ -49,7 +49,7 @@
     			<font size="2">Skim Milk/ 2L</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$3.99</strike></font><br>
     			<font color="green" size="2">Current Price: $2.50</font><br>
-    			<font size="2">Expiry Date: 20/11/2016</font>
+    			<font size="1">Expiry Date: 20/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/dairy-farmers-milk-skim">Buy Online</a></a>
     			</li>
 
@@ -59,7 +59,7 @@
     			<font size="2">Cheese Tub</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$6.88</strike></font><br>
     			<font color="green" size="2">Current Price: $4.50</font><br>
-    			<font size="2">Expiry Date: 27/11/2016</font>
+    			<font size="1">Expiry Date: 27/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/lilydale-free-range-whole-chicken">Buy Online</a></a>
     			</li>
 
@@ -68,7 +68,7 @@
     			<font size="2">Lamb Mince</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$6.00</strike></font><br>
     			<font color="green" size="2">Current Price: $4.50</font><br>
-    			<font size="2">Expiry Date: 28/11/2016</font>
+    			<font size="1">Expiry Date: 28/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/coles-lamb-mince-8850053p">Buy Online</a></a>
     			</li>
 
@@ -77,7 +77,7 @@
     			<font size="2">Cheese Block</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$8.31</strike></font><br>
     			<font color="green" size="2">Current Price: $5.00</font><br>
-    			<font size="2">Expiry Date: 28/11/2016</font>
+    			<font size="1">Expiry Date: 28/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/jarlsberg-cheese-block">Buy Online</a></a>
     			</li>
 
@@ -87,7 +87,7 @@
     			<font size="2">Selection</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$8.00</strike></font><br>
     			<font color="green" size="2">Current Price: $6.00</font><br>
-    			<font size="2">Expiry Date: 2/12/2016</font>
+    			<font size="1">Expiry Date: 2/12/2016</font>
     			<a href="http://shop.coles.com.au/online/national/mt-john-west-seafood-selection">Buy Online</a></a>
     			</li>
 
@@ -97,7 +97,7 @@
     			<font size="2">Fillet Bulk</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$15.00</strike></font><br>
     			<font color="green" size="2">Current Price: $9.00</font><br>
-    			<font size="2">Expiry Date: 25/11/2016</font>
+    			<font size="1">Expiry Date: 25/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/lilydale-chicken-breast-fillet-bulk">Buy Online</a></a>
     			</li>
 
@@ -107,7 +107,7 @@
     			<font size="2">Whole Chicken</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$10.50</strike></font><br>
     			<font color="green" size="2">Current Price: $9.50</font><br>
-    			<font size="2">Expiry Date: 26/11/2016</font>
+    			<font size="1">Expiry Date: 26/11/2016</font>
     			<a href="http://shop.coles.com.au/online/national/lilydale-free-range-whole-chicken">Buy Online</a></a>
     			</li>
          
@@ -117,7 +117,7 @@
     			<font size="2">Platter</font><br><br>
     			<font color="red" size="2">Original Price: <strike>$20.00</strike></font><br>
     			<font color="green" size="2">Current Price: $18.50</font><br>
-    			<font size="2">Expiry Date: 3/12/2016</font>
+    			<font size="1">Expiry Date: 3/12/2016</font>
     			<a href="http://shop.coles.com.au/online/national/coles-deli-small-seafood-platter">Buy Online</a></a>
     			</li>
 
