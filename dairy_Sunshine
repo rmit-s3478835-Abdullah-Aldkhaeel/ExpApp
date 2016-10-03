@@ -19,7 +19,7 @@
 <div data-role="page">
 
 	<div data-role="header">
-		<h1>Sunshine - Dairy Products</h1>
+		<p size="2" align="center">Sunshine - Dairy Products</p>
 	</div><!-- /header -->
 	
 	<div data-role="content">
