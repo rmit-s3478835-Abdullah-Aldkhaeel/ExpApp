@@ -19,7 +19,8 @@
 <div data-role="page">
 
 	<div data-role="header">
-		<h1>Footscray - Expiry Date</h1>
+		<p size="2" align="center">Footscray - Expiry Date</p>
+
 	</div><!-- /header -->
 	
 	<div data-role="content">
